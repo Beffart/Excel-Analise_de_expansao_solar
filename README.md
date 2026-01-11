@@ -163,3 +163,17 @@ O dashboard apresenta dois KPIs principais, focados em tomada de decisão:
 📈 Economia anual projetada caso o cliente opte pela expansão
 
 Esses indicadores consolidam toda a análise técnica em valores financeiros claros e objetivos.
+
+🎯 Conclusão
+
+Este arquivo foi desenvolvido para apoiar decisões técnicas e comerciais no setor de energia solar, unindo:
+
+- Dados reais de fatura
+
+- Análises técnicas consistentes
+
+- Simulações profissionais
+
+- Visualizações claras para o cliente
+
+O projeto demonstra como o Excel pode ser utilizado como uma poderosa ferramenta de análise energética, servindo tanto para estudos técnicos quanto para apresentações comerciais e tomada de decisão.
