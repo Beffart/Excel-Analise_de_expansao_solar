@@ -1,5 +1,8 @@
 # 📊 Análise de Fatura de Energia Solar e Projeção de Expansão do Sistema (Excel)
 
+
+[Acesse aqui a análise completa!](https://github.com/Beffart/Excel-Analise_de_expansao_solar/tree/main)
+
 ## 📌 Introdução
 
 Este projeto consiste em uma análise detalhada da fatura de energia elétrica de um cliente com sistema fotovoltaico já instalado, bem como uma simulação financeira e energética de expansão do sistema solar.
