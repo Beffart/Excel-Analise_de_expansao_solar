@@ -61,6 +61,26 @@ Dias faturados
 
 📌 Esses dados representam a situação real e atual do cliente.
 
+
+### 📊 Tratamento de Dados Faltantes
+
+Como não havia dados históricos de consumo para os meses de novembro e dezembro, foi adotada a seguinte metodologia:
+
+- Novembro: mediana do consumo entre janeiro e maio
+
+- Dezembro: mediana do consumo entre junho e outubro
+
+Essa abordagem garante:
+
+- Coerência sazonal
+
+- Continuidade da análise anual
+
+- Redução de distorções nos resultados
+
+<img width="563" height="352" alt="dados_entrada" src="https://github.com/user-attachments/assets/321ce5f3-b4e6-4544-b943-ec2e1154061e" />
+
+
 ## 📐 Análises Técnicas Realizadas
 
 As colunas compreendidas entre “Geração” e “Energia Necessária” correspondem às análises desenvolvidas manualmente, com base nos dados da fatura e em critérios técnicos.
@@ -108,6 +128,10 @@ Essa abordagem garante:
 
 - Redução de distorções nos resultados
 
+
+<img width="684" height="352" alt="dados_analise" src="https://github.com/user-attachments/assets/ca8eed14-8ad7-4383-858f-31b241f0763c" />
+
+
 ## ☀️ Simulação de Expansão do Sistema Fotovoltaico
 
 As últimas colunas, de “Nova Geração Proposta” até “Fatura com Expansão do Sistema”, são baseadas em uma simulação realizada em software específico de energia solar.
@@ -121,6 +145,10 @@ Essas colunas representam:
 - Nova fatura estimada considerando o sistema expandido
 
 📌 Aqui é apresentado ao cliente um cenário futuro realista, com base em dados técnicos e simulação profissional.
+
+
+<img width="487" height="352" alt="dados_projecao" src="https://github.com/user-attachments/assets/0e70430a-cf8d-4fe4-9334-944f81a26aad" />
+
 
 ## 📈 Visualizações e Gráficos
 
@@ -136,6 +164,9 @@ O primeiro gráfico de linha compara:
 
 ➡️ Esse gráfico evidencia o impacto positivo do sistema já instalado.
 
+<img width="883" height="210" alt="linha_01" src="https://github.com/user-attachments/assets/9bc8cff2-2f23-4d72-8dff-054cc09bb2e7" />
+
+
 ### 📉 Gráfico de Linha — Projeção com Expansão
 
 O segundo gráfico de linha apresenta:
@@ -144,7 +175,10 @@ Situação atual da fatura
 
 Projeção da fatura após a expansão do sistema
 
-➡️ Permite ao cliente visualizar claramente o benefício financeiro futuro.
+<img width="881" height="234" alt="linha_02" src="https://github.com/user-attachments/assets/85694374-1b79-4d28-9389-70d6c04bc52f" />
+
+
+➡️ Permite ao cliente visualizar claramente o benefício financeiro futuro, caso opte por uma expansão do sistema.
 
 ## 🥧 Gráfico de Pizza — Consumo vs Geração
 
@@ -157,13 +191,22 @@ O gráfico de pizza mostra:
 ➡️ Excelente recurso visual para explicar déficit ou sobra energética.
 
 
+<img width="329" height="289" alt="pizza" src="https://github.com/user-attachments/assets/8320738a-12fc-4e49-b467-f3c46abb80b7" />
+
+
 ## 📌 Indicadores-Chave (KPIs)
 
 O dashboard apresenta dois KPIs principais, focados em tomada de decisão:
 
 💰 Economia anual atual proporcionada pelo sistema fotovoltaico
 
+<img width="513" height="236" alt="KPI_01" src="https://github.com/user-attachments/assets/f9820cdb-77a6-4330-8adb-190e0cf78b9d" />
+
+
 📈 Economia anual projetada caso o cliente opte pela expansão
+
+<img width="512" height="234" alt="KPI_02" src="https://github.com/user-attachments/assets/4a887712-b180-4e44-9045-16213cd82f7c" />
+
 
 Esses indicadores consolidam toda a análise técnica em valores financeiros claros e objetivos.
 
